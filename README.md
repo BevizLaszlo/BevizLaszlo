@@ -3,6 +3,9 @@
 
 <br>
 
+
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="gif" align="right">
+
 - 🔭 I’m interested in **web design**
 
 - 🌱 I’m currently learning **web development and programming**
