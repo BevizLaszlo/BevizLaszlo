@@ -6,13 +6,13 @@
 
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="gif" align="right" width="35%">
 
-- 🔭 I’m interested in **web design**
+- I’m interested in **web design**
 
-- 🌱 I’m currently learning **web development and programming**
+- I’m currently learning **web development and programming**
 
-- 🐱‍🏍 I like to **challange** myself
+- I like to **challange** myself
 
-- 📫 You can reach me: **bevizlaci@gmail.com**
+- You can reach me: **bevizlaci@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
