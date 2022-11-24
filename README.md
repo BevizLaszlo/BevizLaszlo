@@ -4,7 +4,7 @@
 <br>
 
 
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="gif" align="right">
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="gif" align="right" width="35%">
 
 - 🔭 I’m interested in **web design**
 
