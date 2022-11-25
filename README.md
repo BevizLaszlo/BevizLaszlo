@@ -17,14 +17,18 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://fb.com/beviz.laszlo" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="beviz.laszlo" height="30" width="40" />
+    <img align="center" src="https://github.com/gilbarbara/logos/blob/master/logos/facebook.svg" alt="beviz.laszlo" height="30" width="40" />
   </a>
   <a href="https://twitter.com/BevizLaszlo" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beviz.laszlo" height="30" width="40" />
   </a>
-  <!--<a href="https://wa.me/421950706327" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="beviz.laszlo" height="30" width="40" />
-  </a>-->
+  <a href="https://m.me/beviz.laszlo" target="blank">
+    <img align="center" src="https://github.com/gilbarbara/logos/blob/master/logos/messenger.svg" alt="beviz.laszlo" height="30" width="40" />
+  </a>
+  
+  <a href="https://wa.me/421950706327" target="blank">
+    <img align="center" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" alt="beviz.laszlo" height="30" width="30" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
