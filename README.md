@@ -29,7 +29,7 @@
   </a>
   
   <a href="https://wa.me/421950706327" target="blank">
-    <img align="center" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" alt="beviz.laszlo" height="30" width="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" alt="beviz.laszlo" height="33" width="33" />
   </a>
 </p>
 
