@@ -18,17 +18,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/beviz.laszlo" target="blank">
+  <a href="https://fb.com/beviz.laszlo" target="_blank">
     <img align="center" src="https://github.com/gilbarbara/logos/blob/master/logos/facebook.svg" alt="beviz.laszlo" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/BevizLaszlo" target="blank">
+  <a href="https://twitter.com/BevizLaszlo" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beviz.laszlo" height="30" width="40" />
   </a>
-  <a href="https://m.me/beviz.laszlo" target="blank">
+  <a href="https://m.me/beviz.laszlo" target="_blank">
     <img align="center" src="https://github.com/gilbarbara/logos/blob/master/logos/messenger.svg" alt="beviz.laszlo" height="30" width="40" />
   </a>
   
-  <a href="https://wa.me/421950706327" target="blank">
+  <a href="https://wa.me/421950706327" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" alt="beviz.laszlo" height="33" width="33" />
   </a>
 </p>
