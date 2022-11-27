@@ -6,7 +6,7 @@
 <br>
 
 
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="gif" align="right" width="35%">
+<img src="https://user-images.githubusercontent.com/112706009/204124391-6866685b-00bc-4fef-ad4d-845121cbde13.gif" alt="gif" align="right" width="35%">
 
 - I’m interested in **web design**
 
