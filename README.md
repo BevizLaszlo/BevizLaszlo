@@ -64,6 +64,6 @@
 </p>
 
 <br>
-<!--
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevizlaszlo&show_icons=true&title_color=26a641&text_color=ffffff&bg_color=0d1117&hide_border=false&locale=en&layout=compact" alt="bevizlaszlo" />
--->
+
