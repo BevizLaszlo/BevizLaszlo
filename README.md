@@ -18,18 +18,33 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
   <a href="https://fb.com/beviz.laszlo" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/1f372be75689d73cae89b6de808149b606b879e1/logos/facebook.svg" alt="beviz.laszlo" height="30" width="40" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/d41de38f-82ed-48f3-bc84-52f43021b7ac">
+      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/d49dd39c-8523-421e-be29-5c1cd7b0f7f2" alt="bevizlaszlo" width=35>
+    </picture>
   </a>
-  <a href="https://twitter.com/BevizLaszlo" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beviz.laszlo" height="30" width="40" />
+  
+  <a href="https://x.com/BevizLaszlo" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/9bc68f4a-d99e-4ae7-a17e-81fee62844e1">
+      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/5850aeb4-8da1-46fe-a104-1a74867e718f" alt="bevizlaszlo" width=35>
+    </picture>
   </a>
+  
   <a href="https://m.me/beviz.laszlo" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/1f372be75689d73cae89b6de808149b606b879e1/logos/messenger.svg" alt="beviz.laszlo" height="30" width="40" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/73f70f76-b382-45dd-baf8-7cd61d517a7a">
+      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/9227f3d6-212c-46ed-bf3d-8d204304c8ba" alt="bevizlaszlo" width=35>
+    </picture>
   </a>
   
   <a href="https://wa.me/421950706327" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" alt="beviz.laszlo" height="33" width="33" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/820b8a7f-7b40-4040-8838-a8f4184f2011">
+      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/1d180199-c0c8-4351-92af-986283976b27" alt="bevizlaszlo" width=35>
+    </picture>
   </a>
 </p>
 
