@@ -52,28 +52,66 @@
 <p align="left">
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> 
-  </a> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/3f5fd7ae-b71f-48e0-aeb3-763054955a65">
+      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/dc39defc-464d-4db1-a10c-cf06cff6fb88" alt="bevizlaszlo" width=30>
+    </picture>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/1427781a-7ed8-4cdc-8134-0ff162b706a4">
+      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/68d564b1-3064-4a9f-8db7-8641f5d7c70a" alt="bevizlaszlo" width=30>
+    </picture>
   </a>
+  &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/1c9b9093-48f3-4c7b-81fe-cd5f47820d0b">
+      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/bfce2fc1-e2fe-4be4-b357-db7a687a42a7" alt="bevizlaszlo" width=30>
+    </picture>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/831931f5-b669-46d5-afe5-e888d457008d">
+      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/73a3aeff-a1e1-410a-9af0-e369178ea17a" alt="bevizlaszlo" width=30>
+    </picture>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/f352f77a-ccba-4df1-b995-37e6adc1e3dd">
+      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/cc5e05f0-20f1-46e1-bc5f-58bb0488a205" alt="bevizlaszlo" width=30>
+    </picture>
   </a> 
+  &nbsp;&nbsp;
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="csharp" width="40" height="40"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/9960f9f6-4f0c-46b8-bec5-e5339cd57154">
+      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/9013f0f5-c584-4d09-aa0f-8f04c00a9ef9" alt="bevizlaszlo" width=30>
+    </picture>
   </a>
+  &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="40" height="40"/> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/3c71d971-7119-4448-a376-223b27c8be21">
+      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/cd0c1307-9b00-480d-b13b-517759d38a46" alt="bevizlaszlo" width=30>
+    </picture>
   </a> 
+  &nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/e60b138d-4a8c-42bf-940b-d62d07c0f2df">
+      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/eb4b0f2b-4b71-48d8-8b1d-771bb4f58159" alt="bevizlaszlo" width=30>
+    </picture>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-plain.svg" alt="gimp" width="40" height="40"/> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/69ba7675-f84d-4386-a0e1-75d5a9324ccd">
+      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/5c0fb760-7638-4fb4-b9d6-710d8bde2cdb" alt="bevizlaszlo" width=30>
+    </picture>
   </a>
   
 </p>
