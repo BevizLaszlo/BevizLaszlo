@@ -22,28 +22,28 @@
   <a href="https://fb.com/beviz.laszlo" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/d41de38f-82ed-48f3-bc84-52f43021b7ac">
-      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/d49dd39c-8523-421e-be29-5c1cd7b0f7f2" alt="bevizlaszlo" width=35>
+      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/d49dd39c-8523-421e-be29-5c1cd7b0f7f2" alt="bevizlaszlo" width=30>
     </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/BevizLaszlo" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/9bc68f4a-d99e-4ae7-a17e-81fee62844e1">
-      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/5850aeb4-8da1-46fe-a104-1a74867e718f" alt="bevizlaszlo" width=35>
+      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/5850aeb4-8da1-46fe-a104-1a74867e718f" alt="bevizlaszlo" width=30>
     </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://m.me/beviz.laszlo" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/73f70f76-b382-45dd-baf8-7cd61d517a7a">
-      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/9227f3d6-212c-46ed-bf3d-8d204304c8ba" alt="bevizlaszlo" width=35>
+      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/9227f3d6-212c-46ed-bf3d-8d204304c8ba" alt="bevizlaszlo" width=30>
     </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/421950706327" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/820b8a7f-7b40-4040-8838-a8f4184f2011">
-      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/1d180199-c0c8-4351-92af-986283976b27" alt="bevizlaszlo" width=35>
+      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/1d180199-c0c8-4351-92af-986283976b27" alt="bevizlaszlo" width=30>
     </picture>
   </a>
 </p>
@@ -81,7 +81,7 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bevizlaszlo&show_icons=true&title_color=26a641&text_color=ffffff&bg_color=0d1117&hide_border=false&locale=en&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevizlaszlo&show_icons=true&title_color=26a641&text_color=0d1117&bg_color=ffffff&hide_border=false&locale=en&layout=compact" alt="bevizlaszlo">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bevizlaszlo&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&locale=en&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevizlaszlo&show_icons=true&title_color=0d1117&text_color=0d1117&bg_color=ffffff&hide_border=true&locale=en&layout=compact" alt="bevizlaszlo">
 </picture>
 
