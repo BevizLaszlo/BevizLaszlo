@@ -7,7 +7,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/112706009/204124391-6866685b-00bc-4fef-ad4d-845121cbde13.gif" alt="gif" align="right" width="35%">
-
+<br><br>
 - I’m interested in **web design**
 
 - I’m currently learning **web development and programming**
@@ -16,8 +16,15 @@
 
 - You can reach me: **bevizlaci@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bevizlaszlo&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&locale=en&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevizlaszlo&show_icons=true&title_color=0d1117&text_color=0d1117&bg_color=ffffff&hide_border=true&locale=en&layout=compact" alt="bevizlaszlo">
+</picture>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   
   <a href="https://fb.com/beviz.laszlo" target="_blank">
     <picture>
@@ -48,8 +55,8 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <picture>
@@ -116,10 +123,4 @@
   
 </p>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bevizlaszlo&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&locale=en&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevizlaszlo&show_icons=true&title_color=0d1117&text_color=0d1117&bg_color=ffffff&hide_border=true&locale=en&layout=compact" alt="bevizlaszlo">
-</picture>
 
