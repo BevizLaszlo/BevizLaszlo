@@ -58,28 +58,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/3f5fd7ae-b71f-48e0-aeb3-763054955a65">
-      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/dc39defc-464d-4db1-a10c-cf06cff6fb88" alt="bevizlaszlo" width=30>
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/1427781a-7ed8-4cdc-8134-0ff162b706a4">
-      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/68d564b1-3064-4a9f-8db7-8641f5d7c70a" alt="bevizlaszlo" width=30>
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/1c9b9093-48f3-4c7b-81fe-cd5f47820d0b">
-      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/bfce2fc1-e2fe-4be4-b357-db7a687a42a7" alt="bevizlaszlo" width=30>
-    </picture>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/831931f5-b669-46d5-afe5-e888d457008d">
