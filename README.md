@@ -1,7 +1,7 @@
 ![IMG_20220709_104232_1-PANO](https://user-images.githubusercontent.com/112706009/204109319-02fa22a1-1f74-4980-97ab-cfcc12ef7fe7.jpg)
 
 <h1 align="center">Hello, I'm Bevíz László</h1>
-<h3 align="center">I'm 19 years old student and I'm learning software development</h3>
+<h3 align="center">I'm a 20-year-old software and web developer student</h3>
 
 <br>
 
