@@ -9,11 +9,11 @@
 <img src="https://user-images.githubusercontent.com/112706009/204124391-6866685b-00bc-4fef-ad4d-845121cbde13.gif" alt="gif" align="right" width="35%">
 <br>
 
-- I’m mainly interested in **web design**
+- I’m mainly interested in **web design** and **game dev**
 
 - I’m currently learning **React and PHP**
 
-- I like **learning new things**
+- Making games in **Unity**
 
 - You can reach me: **bevizlaci@gmail.com**
 
@@ -41,10 +41,10 @@
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://m.me/beviz.laszlo" target="_blank">
+  <a href="https://www.linkedin.com/in/laszlo-beviz" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/73f70f76-b382-45dd-baf8-7cd61d517a7a">
-      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/9227f3d6-212c-46ed-bf3d-8d204304c8ba" alt="bevizlaszlo" width=30>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a9378726-3157-428c-83ec-602f41b25cdb">
+      <img align="center" src="https://github.com/user-attachments/assets/5e735474-8c72-4f10-af70-71a19683896b" alt="bevizlaszlo" width=30>
     </picture>
   </a>
   &nbsp;&nbsp;
@@ -79,10 +79,10 @@
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/3c71d971-7119-4448-a376-223b27c8be21">
-      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/cd0c1307-9b00-480d-b13b-517759d38a46" alt="bevizlaszlo" width=30>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e355c2fa-3ae9-4be4-b89b-d62fd813500e">
+      <img align="center" src="https://github.com/user-attachments/assets/3d015204-f621-42c0-a0be-7f26de021bd5" alt="bevizlaszlo" width=30>
     </picture>
   </a> 
   &nbsp;&nbsp;
