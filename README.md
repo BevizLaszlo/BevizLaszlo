@@ -2,22 +2,14 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/headerwhite.webp">
   <img width=100% src="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/headerblack.webp" alt="bevizlaszlo">
 </picture>
-<h3 align="center">I'm a 20-year-old software and web developer student</h3>
 
 <br>
 
 
 <img src="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/bgcoding.webp" alt="gif" align="right" width="35%">
 <br>
-
-- I’m mainly interested in **web design** and **game dev**
-
-- I’m currently learning **React and PHP**
-
-- Making games in **Unity**
-
-- You can reach me: **bevizlaci@gmail.com**
-
+  <p>I’m a 20-year-old software and web developer student passionate about web design and game development. Currently, I'm learning React and PHP, and also creating games in Unity.</p>
+  <p>You can reach me at <a href="mailto:bevizlaci@gmail.com">bevizlaci@gmail.com.</a></p>
 <br>
 
 <picture>
