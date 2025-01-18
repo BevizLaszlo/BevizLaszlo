@@ -6,7 +6,7 @@
 <br>
 
 
-<img src="https://user-images.githubusercontent.com/112706009/204124391-6866685b-00bc-4fef-ad4d-845121cbde13.gif" alt="gif" align="right" width="35%">
+<img src="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/bgcoding.webp" alt="gif" align="right" width="35%">
 <br>
 
 - I’m mainly interested in **web design** and **game dev**
