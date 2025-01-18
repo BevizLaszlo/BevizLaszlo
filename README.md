@@ -1,6 +1,7 @@
-![IMG_20220709_104232_1-PANO](https://user-images.githubusercontent.com/112706009/204109319-02fa22a1-1f74-4980-97ab-cfcc12ef7fe7.jpg)
-
-<h1 align="center">Hello, I'm Bevíz László</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/headerwhite.webp">
+  <img width=100% src="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/headerblack.webp" alt="bevizlaszlo">
+</picture>
 <h3 align="center">I'm a 20-year-old software and web developer student</h3>
 
 <br>
