@@ -114,6 +114,13 @@
           <img align="center" src="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/gimp_black.webp" alt="bevizlaszlo" width=30>
         </picture>
       </a>
+      &nbsp;&nbsp;
+      <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/aseprite_white.webp">
+          <img align="center" src="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/aseprite_black.webp" alt="bevizlaszlo" width=30>
+        </picture>
+      </a>
     </td>
   </tr>
 </table>
