@@ -50,49 +50,59 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/831931f5-b669-46d5-afe5-e888d457008d">
-      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/73a3aeff-a1e1-410a-9af0-e369178ea17a" alt="bevizlaszlo" width=30>
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/f352f77a-ccba-4df1-b995-37e6adc1e3dd">
-      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/cc5e05f0-20f1-46e1-bc5f-58bb0488a205" alt="bevizlaszlo" width=30>
-    </picture>
-  </a> 
-  &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/9960f9f6-4f0c-46b8-bec5-e5339cd57154">
-      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/9013f0f5-c584-4d09-aa0f-8f04c00a9ef9" alt="bevizlaszlo" width=30>
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e355c2fa-3ae9-4be4-b89b-d62fd813500e">
-      <img align="center" src="https://github.com/user-attachments/assets/3d015204-f621-42c0-a0be-7f26de021bd5" alt="bevizlaszlo" width=30>
-    </picture>
-  </a> 
-  &nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/e60b138d-4a8c-42bf-940b-d62d07c0f2df">
-      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/eb4b0f2b-4b71-48d8-8b1d-771bb4f58159" alt="bevizlaszlo" width=30>
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/69ba7675-f84d-4386-a0e1-75d5a9324ccd">
-      <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/5c0fb760-7638-4fb4-b9d6-710d8bde2cdb" alt="bevizlaszlo" width=30>
-    </picture>
-  </a>
-  
-</p>
 
+<table align="center">
+  <tr>
+    <th>Languages</th>
+    <th>Frameworks</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/f352f77a-ccba-4df1-b995-37e6adc1e3dd">
+          <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/cc5e05f0-20f1-46e1-bc5f-58bb0488a205" alt="bevizlaszlo" width=30>
+        </picture>
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/9960f9f6-4f0c-46b8-bec5-e5339cd57154">
+          <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/9013f0f5-c584-4d09-aa0f-8f04c00a9ef9" alt="bevizlaszlo" width=30>
+        </picture>
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/e60b138d-4a8c-42bf-940b-d62d07c0f2df">
+          <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/eb4b0f2b-4b71-48d8-8b1d-771bb4f58159" alt="bevizlaszlo" width=30>
+        </picture>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/831931f5-b669-46d5-afe5-e888d457008d">
+          <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/73a3aeff-a1e1-410a-9af0-e369178ea17a" alt="bevizlaszlo" width=30>
+        </picture>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://unity.com/" target="_blank" rel="noreferrer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e355c2fa-3ae9-4be4-b89b-d62fd813500e">
+          <img align="center" src="https://github.com/user-attachments/assets/3d015204-f621-42c0-a0be-7f26de021bd5" alt="bevizlaszlo" width=30>
+        </picture>
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://www.gimp.org/" target="_blank" rel="noreferrer">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/69ba7675-f84d-4386-a0e1-75d5a9324ccd">
+          <img align="center" src="https://github.com/BevizLaszlo/BevizLaszlo/assets/112706009/5c0fb760-7638-4fb4-b9d6-710d8bde2cdb" alt="bevizlaszlo" width=30>
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
