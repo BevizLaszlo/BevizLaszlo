@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/bgcoding.webp" alt="gif" align="right" width="35%">
 <br>
-  <p>I’m a 20-year-old software and web developer student passionate about web design and game development. Currently, I'm learning React and PHP, and also creating games in Unity.</p>
+  <p>I’m a computer science engineering student passionate about web design and game development. Currently, I'm learning React and PHP, and also creating games in Unity.</p>
   <p>You can reach me at <a href="mailto:bevizlaci@gmail.com">bevizlaci@gmail.com.</a></p>
 <br>
 
