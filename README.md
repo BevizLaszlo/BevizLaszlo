@@ -16,38 +16,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bevizlaszlo&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=0d111700&hide_border=true&locale=en&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevizlaszlo&show_icons=true&title_color=0d1117&text_color=0d1117&bg_color=ffffff00&hide_border=true&locale=en&layout=compact" alt="bevizlaszlo">
 </picture>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  
-  <a href="https://fb.com/beviz.laszlo" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/fb_white.webp">
-      <img align="center" src="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/fb_black.webp" alt="bevizlaszlo" width=30>
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/BevizLaszlo" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/x_white.webp">
-      <img align="center" src="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/x_black.webp" alt="bevizlaszlo" width=30>
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/laszlo-beviz" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/linkedin_white.webp">
-      <img align="center" src="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/linkedin_black.webp" alt="bevizlaszlo" width=30>
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/421950706327" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/wa_white.webp">
-      <img align="center" src="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/wa_black.webp" alt="bevizlaszlo" width=30>
-    </picture>
-  </a>
-</p>
+<br/>
 <br/>
 <table align="center">
   <tr>
