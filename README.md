@@ -6,7 +6,7 @@
 <br>
 
 
-<img src="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/bgcoding.webp" alt="gif" align="right" width="35%">
+<img src="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/self.webp" alt="gif" align="right" width="35%">
 <br>
 
   <p>
