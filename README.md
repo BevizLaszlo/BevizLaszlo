@@ -10,21 +10,23 @@
 <br>
 
   <p>
-  🏫 I’m a Computer Science Engineering student at Obuda University<br>
+  🏫 Computer Science Engineering student at Obuda University<br>
   ⚙️ Passionate about web, game and graphic design<br>
   📚 Currently learning Java and creating games in Unity
   </p>
 
   <p>You can reach me at <a href="mailto:bevizlaci@gmail.com">bevizlaci@gmail.com.</a></p>
 <br>
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=bevizlaszlo&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=0d111700&hide_border=true&locale=en&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevizlaszlo&show_icons=true&title_color=0d1117&text_color=0d1117&bg_color=ffffff00&hide_border=true&locale=en&layout=compact" alt="bevizlaszlo">
 </picture>
 <br/>
+-->
+
 <br/>
-<table align="center">
+<table>
   <tr>
     <th>Languages</th>
     <th>Frameworks</th>
