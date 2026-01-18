@@ -7,15 +7,23 @@
 
 
 <img src="https://raw.githubusercontent.com/BevizLaszlo/BevizLaszlo/refs/heads/main/.github/images/self.webp" alt="gif" align="right" width="35%">
-<br>
-
+  <samp>
   <p>
-  🏫 Computer Science Engineering student at Obuda University<br>
-  ⚙️ Passionate about web, game and graphic design<br>
-  📚 Currently learning Java and creating games in Unity
+  🏫 Studies:<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- Computer Science Engineering at Obuda University<br><br>
+  ⚙️ Interests: <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- web and game development<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;- graphic design<br><br>
   </p>
 
-  <p>You can reach me at <a href="mailto:bevizlaci@gmail.com">bevizlaci@gmail.com.</a></p>
+  <p>
+    <a href="mailto:bevizlaci@gmail.com">Email</a>
+    .
+    <a href="https://bevizl.com">Portfolio</a>
+    .
+    <a href="https://www.linkedin.com/in/laszlo-beviz/">LinkedIn</a>
+  </p>
+  </samp>
 <br>
 <!--
 <picture>
@@ -25,7 +33,6 @@
 <br/>
 -->
 
-<br/>
 <table>
   <tr>
     <th>Languages</th>
