@@ -109,3 +109,10 @@
   </tr>
 </table>
 
+<br>
+<samp>
+  <p align="right">
+    Artwork by <a href="https://github.com/RevaiErik">RevaiErik</a>
+  </p>
+</samp>
+
